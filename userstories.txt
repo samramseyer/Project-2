@@ -1,0 +1,21 @@
+# User Stories for Giphy Shed
+
+## As a visitor
+- I want to search for GIFs so I can find content that matches my interests.
+- I want to view a gallery of GIFs so I can browse and discover new animations.
+- I want to easily navigate between Home, About Us, and Contact Us pages.
+
+## As a mobile user
+- I want the site to be easy to use on my phone so I can search and view GIFs anywhere.
+- I want a hamburger menu so I can access navigation links on small screens.
+
+## As a content sharer
+- I want to copy or share GIF links so I can send them to friends or post on social media.
+
+## As a new user
+- I want to understand what the site does by reading the About Us page.
+- I want to contact the team if I have questions or feedback using the Contact Us page.
+
+## As an administrator
+- I want to ensure the search and gallery work smoothly so users have a good experience.
+- I want to receive messages from the contact form so I can respond
